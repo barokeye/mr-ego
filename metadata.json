@@ -1,0 +1,7 @@
+{
+  "name": "Mr. Ego - The AI Tutor",
+  "description": "An interactive learning app for students featuring personalized AI mascots and Voice Mode. Boys learn with a friendly dog tutor, while girls learn with a smart cat tutor. Supports multiple student profiles under one account.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
